@@ -9,27 +9,27 @@ module.exports = {
     "comma-dangle": [2, "only-multiline"],
     "no-control-regex": 2,
     "no-debugger": 2,
-    // no-dupe-args: 2,
-    // no-dupe-keys: 2,
-    // no-duplicate-case: 2
-    // no-empty-character-class: 2
-    // no-ex-assign: 2
-    // no-extra-boolean-cast: 2
-    // no-extra-parens: [2, functions]
-    // no-extra-semi: 2
-    // no-func-assign: 2
-    // no-invalid-regexp: 2
-    // no-irregular-whitespace: 2
-    // no-negated-in-lhs: 2
-    // no-obj-calls: 2
-    // no-proto: 2
-    // no-unexpected-multiline: 2
-    // no-unreachable: 2
-    // use-isnan: 2
-    // valid-typeof: 2
-    //
-    // # Best Practices
-    // # http://eslint.org/docs/rules/#best-practices
+    "no-dupe-args": 2,
+    "no-dupe-keys": 2,
+    "no-duplicate-case": 2,
+    "no-empty-character-class": 2,
+    "no-ex-assign": 2,
+    "no-extra-boolean-cast": 2,
+    "no-extra-parens": [2, "functions"],
+    "no-extra-semi": 2,
+    "no-func-assign": 2,
+    "no-invalid-regexp": 2,
+    "no-irregular-whitespace": 2,
+    "no-negated-in-lhs": 2,
+    "no-obj-calls": 2,
+    "no-proto": 2,
+    "no-unexpected-multiline": 2,
+    "no-unreachable": 2,
+    "use-isnan": 2,
+    "valid-typeof": 2,
+
+    // Best Practices
+    // http://eslint.org/docs/rules/#best-practices
     //   no-fallthrough: 2
     // no-multi-spaces: 2
     // no-octal: 2
