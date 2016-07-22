@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-nodejs",
+  "version": "0.0.0",
+  "description": "NodeJS with ES6 nodeJS Sharing Config from Node Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "eslint",
+    "node"
+  ],
+  "author": "Paul-Guillaume Déjardin",
+  "license": "ISC"
+}
