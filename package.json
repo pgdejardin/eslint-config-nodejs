@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nodejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NodeJS with ES6 nodeJS Sharing Config from Node Repository",
   "main": "eslint.yml",
   "scripts": {
