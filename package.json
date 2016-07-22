@@ -2,9 +2,9 @@
   "name": "eslint-config-nodejs",
   "version": "0.0.0",
   "description": "NodeJS with ES6 nodeJS Sharing Config from Node Repository",
-  "main": "index.js",
+  "main": "eslint.yml",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "eslint",
