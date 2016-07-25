@@ -11,5 +11,12 @@
     "node"
   ],
   "author": "Paul-Guillaume Déjardin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pgdejardin/eslint-config-nodejs"
+  },
+  "engines": {
+    "node": ">= 4"
+  }
 }
