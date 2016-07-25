@@ -1,5 +1,7 @@
 # eslint-config-nodejs
 
+[![npm version](https://badge.fury.io/js/eslint-config-nodejs.svg)](https://badge.fury.io/js/eslint-config-nodejs)
+
 This package provides a NodeJS with ES6 .eslintrc as an extensible shared config.
 
 ### Prerequisites
