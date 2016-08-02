@@ -8,6 +8,7 @@
   },
   "keywords": [
     "eslint",
+    "config",
     "node"
   ],
   "author": "Paul-Guillaume Déjardin",
